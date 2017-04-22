@@ -1,0 +1,10 @@
+This Program say hello and asks for my name
+int('Hello world!')
+int('What is your name?') # ask for their name
+Name = input ()
+int('It is good to meet you, ' + myName
+int('The legnth of your name is:')
+int(len(myName))
+int('What is your age?') # ask for their age
+Age = input()
+int('You will be ' + str(int(myAge) + 1) + ' in a year
